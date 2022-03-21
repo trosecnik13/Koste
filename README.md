@@ -1,0 +1,2 @@
+# Koste
+Simple discord bot
